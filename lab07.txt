@@ -1,0 +1,17 @@
+Padding Mem
+access
+Direct Mapped Fully Associative
+Hit? Αριθμός
+block
+Tag Hit? Αριθμός
+block
+Tag
+0
+1st Miss 0 400000 Miss 0 2000000
+2nd Hit 0 400000 Hit 0 2000000
+4
+1st Miss 0 400000 Miss 0 2000000
+2nd Miss 1 400000 Miss 1 2000001
+8
+1st Miss 1 400000 Miss 0 2000001
+2nd Hit 1 400000 Hit 0 2000001
